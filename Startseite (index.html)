@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Das Märchen beginnt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="start">
+    <div class="game-container">
+        <h1>Das Märchen beginnt</h1>
+        <p>Du wachst in einem zauberhaften Wald auf, umgeben von schwebenden Lichtern und leisen Stimmen. Vor dir liegt ein glitzernder Pfad, der von Feenstaub bedeckt ist. Was möchtest du tun?</p>
+        <div class="choices">
+            <a href="page1.html">Dem Pfad folgen</a>
+            <a href="page2.html">Bleiben und umsehen</a>
+        </div>
+    </div>
+</body>
+</html>
