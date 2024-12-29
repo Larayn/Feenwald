@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.game-container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.choices a {
+    display: inline-block;
+    background-color: #ff99cc;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.choices a:hover {
+    background-color: #ff66b2;
+}
+
+/* Hintergrundbilder */
+body.start {
+    background: url('https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg') no-repeat center center;
+}
+
+body.fairy-path {
+    background: url('https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg') no-repeat center center;
+}
+
+body.glowing-flower {
+    background: url('https://www.hdwallpapers.in/download/glowing_blue_flowers_4k_8k-5120x2880.jpg') no-repeat center center;
+}
+
+body.fairy-clearing {
+    background: url('https://cdn.pixabay.com/photo/2024/05/09/20/20/ai-generated-8751769_640.jpg') no-repeat center center;
+}
+
+body.fairy-tree {
+    background: url('https://cdn.pixabay.com/photo/2024/12/05/07/51/ai-generated-9246074_640.jpg') no-repeat center center;
+}
+
+body.end {
+    background: url('https://cdn.pixabay.com/photo/2024/12/05/07/39/ai-generated-9246061_640.jpg') no-repeat center center;
+}
