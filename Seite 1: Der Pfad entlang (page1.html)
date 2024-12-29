@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dem Pfad folgen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="fairy-path">
+    <div class="game-container">
+        <h1>Dem glitzernden Pfad folgen</h1>
+        <p>Während du dem Pfad folgst, begegnen dir kleine Feen, die dir zuflüstern, dass am Ende ein magischer Schatz wartet. Willst du weitergehen oder nach links in einen geheimen Tunnel abbiegen?</p>
+        <div class="choices">
+            <a href="page3.html">Weitergehen</a>
+            <a href="page4.html">In den Tunnel abbiegen</a>
+        </div>
+    </div>
+</body>
+</html>
