@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magische Lichtung</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="fairy-clearing">
+    <div class="game-container">
+        <h1>Die magische Lichtung</h1>
+        <p>Du betrittst eine Lichtung, die von schwebenden Lichtern und singenden Feen erfüllt ist. In der Mitte liegt eine Truhe. Öffnest du die Truhe oder gehst du zurück?</p>
+        <div class="choices">
+            <a href="end.html">Die Truhe öffnen</a>
+            <a href="index.html">Zurückgehen</a>
+        </div>
+    </div>
+</body>
+</html>
