@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Das Ende</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="end">
+    <div class="game-container">
+        <h1>Das Märchen endet...</h1>
+        <p>Dein Abenteuer ist zu Ende. Vielleicht möchtest du es noch einmal versuchen, um neue Wege zu entdecken?</p>
+        <div class="choices">
+            <a href="index.html">Nochmal spielen</a>
+        </div>
+    </div>
+</body>
+</html>
