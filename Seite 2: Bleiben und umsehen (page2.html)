@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bleiben und umsehen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="glowing-flower">
+    <div class="game-container">
+        <h1>Eine glühende Blume entdecken</h1>
+        <p>Du siehst dich um und entdeckst eine Blume, die in allen Farben des Regenbogens leuchtet. Sie scheint etwas zu beschützen. Möchtest du sie pflücken oder sie nur beobachten?</p>
+        <div class="choices">
+            <a href="page3.html">Die Blume pflücken</a>
+            <a href="end.html">Die Blume beobachten</a>
+        </div>
+    </div>
+</body>
+</html>
