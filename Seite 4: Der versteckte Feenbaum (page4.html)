@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Der Feenbaum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="fairy-tree">
+    <div class="game-container">
+        <h1>Der versteckte Feenbaum</h1>
+        <p>Du findest einen riesigen Baum, der von glitzernden Lichtern umgeben ist. Die Feen flüstern dir zu, dass er Wünsche erfüllen kann. Möchtest du dir etwas wünschen oder den Baum berühren?</p>
+        <div class="choices">
+            <a href="end.html">Einen Wunsch äußern</a>
+            <a href="index.html">Den Baum berühren</a>
+        </div>
+    </div>
+</body>
+</html>
